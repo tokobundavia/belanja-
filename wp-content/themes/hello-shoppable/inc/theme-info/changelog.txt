@@ -1,0 +1,30 @@
+= 1.0.9 =
+* Getting started plugin added.
+
+= 1.0.8 =
+* Style fix.
+* Translation loading early fix.
+
+= 1.0.7 =
+* Style fix.
+
+= 1.0.6 =
+* Style update.
+
+= 1.0.5 =
+* Minor functional update.
+
+= 1.0.4 =
+* Post style css updated.
+
+= 1.0.3 =
+* Minor functional update.
+
+= 1.0.2 =
+* Style update.
+
+= 1.0.1 =
+* Theme Info page update.
+
+= 1.0.0 =
+* Initial release.

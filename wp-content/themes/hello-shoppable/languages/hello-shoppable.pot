@@ -1,0 +1,1060 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hello Shoppable\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-28 10:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.1; wp-6.9; php-7.4.21\n"
+"X-Domain: hello-shoppable"
+
+#: template-parts/site-info.php:12
+msgid " Hello Shoppable. Powered by"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:43
+msgid " Info"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:44
+msgid " Theme"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1385
+msgid "# Blog"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1120
+msgid "# E-Commerce (WooCommerce):"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1425
+msgid "# Elementor"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1280
+msgid "# General"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1445
+msgid "# Other"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1260
+msgid "# Usage:"
+msgstr ""
+
+#. %s - Theme Name
+#: inc/theme-info/theme-info.php:1033
+#, php-format
+msgid ""
+"%s is now installed and ready to use. We hope the following information will "
+"help and you enjoy using it!"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:102 inc/template-tags.php:125
+msgid ", "
+msgstr ""
+
+#: inc/template-functions.php:1134
+msgid "1370x550 Size"
+msgstr ""
+
+#: inc/template-functions.php:1133
+msgid "1370x790 Size"
+msgstr ""
+
+#: inc/template-functions.php:1130
+msgid "1536x1536 Size"
+msgstr ""
+
+#: inc/template-functions.php:1132
+msgid "1920x550 Size"
+msgstr ""
+
+#: inc/template-functions.php:1131
+msgid "2048x2048 Size"
+msgstr ""
+
+#: 404.php:17
+msgid "404"
+msgstr ""
+
+#: inc/template-functions.php:1136
+msgid "420x300 Size"
+msgstr ""
+
+#: inc/template-functions.php:1135
+msgid "730x90 Size"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:511 inc/theme-info/theme-info.php:733
+msgid "Activate"
+msgstr ""
+
+#: inc/template-functions.php:472 inc/template-functions.php:482
+#: inc/template-functions.php:492 inc/template-functions.php:502
+#: inc/template-functions.php:513
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1435
+msgid "Advanced General Widgets"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1440
+msgid "Advanced WooCommerce Widgets"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1165
+msgid "Ajax Add To Cart"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1195
+msgid "Ajax Products Search"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1088
+msgid ""
+"All Settings, Header & Footer Options and Theme Options are available via "
+"Customize screen."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1250
+msgid "Archive: Category Display Options"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1400
+msgid "Archive: Content - Sidebar Positions"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1405
+msgid "Archive: Exerpt Lenth Control"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1215
+msgid "Archive: Gallery Images"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1395
+msgid "Archive: Hero Slider/Banner for Posts/Pages"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1210
+msgid "Archive: Image Flipper"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1390
+msgid "Archive: Multiple Post Layouts"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1235
+msgid "Archive: Product Button Layouts"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1240
+msgid "Archive: Product Sale Tag Options"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1220
+msgid "Archive: Products Per Page"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1230
+msgid "Archive: Products Per Row"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1255
+msgid "Archive: Products Sorting"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1245
+msgid "Archive: Shop Page Display Options"
+msgstr ""
+
+#: functions.php:173
+msgid "Black"
+msgstr ""
+
+#: functions.php:153
+msgid "Blue"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1490
+msgid "Bootstrap Grid"
+msgstr ""
+
+#. Author of the theme
+msgid "Bosa Themes"
+msgstr ""
+
+#: functions.php:163
+msgid "Brown"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1073
+msgid "Browse Demos"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1480
+msgid "Browser Compatibility"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1044
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1062
+msgid ""
+"By clicking \"Get Started,\" you will install and activate essential plugins "
+"to prepare your demo import."
+msgstr ""
+
+#: functions.php:66
+msgid "Category Menu"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1054
+msgid "Changelog"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1500
+msgid "Clear Documentation"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:61
+msgid ""
+"Clicking on get started will install and activate Bosa Elementor Addons for "
+"WooCommerce, Kirki, Advanced Import, Keon Toolset, Elementor, ElementsKit "
+"Lite, Contact Form 7, WooCommerce and Classic Widgets."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1320
+msgid "Coming Soon Mode"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:69 template-parts/slider/slider-one.php:92
+#: template-parts/slider/slider-three.php:90
+#: template-parts/slider/slider-two.php:93
+#, php-format
+msgid "Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce-functions.php:171 inc/theme-info/theme-info.php:1125
+msgid "Compare"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1051
+msgid "Compare Free Vs Pro"
+msgstr ""
+
+#: template-parts/site-info.php:12
+msgid "Copyright &copy; "
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1355
+msgid "Custom Colors"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1533 inc/theme-info/theme-info.php:1535
+msgid "Customization Request"
+msgstr ""
+
+#: inc/template-functions.php:594
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:517 inc/theme-info/theme-info.php:739
+msgid "Deactivate"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1055
+msgid "Demos"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1095
+msgid "Documentation"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:794
+msgid "Download"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:31
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. %s - Name of current post
+#: inc/template-tags.php:183
+#, php-format
+msgid "EDIT<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1170
+msgid "Floating Product Info"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1365
+msgid "Font Icons"
+msgstr ""
+
+#: functions.php:65
+msgid "Footer"
+msgstr ""
+
+#: inc/template-functions.php:511
+msgid "Footer Sidebar"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1310
+msgid "Footer: Copyright(Credits) Editor"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1305
+msgid "Footer: Multiple Layouts"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:568
+msgid "Free"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1265
+msgid "Free Starters Sites"
+msgstr ""
+
+#: inc/template-functions.php:1125
+msgid "Full Size"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1135
+msgid "Gallery Zoom/Slider"
+msgstr ""
+
+#. %s - Theme Name
+#: inc/theme-info/theme-info.php:1064
+#: inc/getting-started/getting-started.php:61
+#, php-format
+msgid "Get started with %s"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1527
+msgid "Get Support"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:296 inc/theme-info/theme-info.php:1050
+#: inc/theme-info/theme-info.php:1061
+msgid "Getting Started"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1087 inc/theme-info/theme-info.php:1089
+msgid "Go to Customizer"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1360
+msgid "Google Fonts"
+msgstr ""
+
+#: functions.php:158
+msgid "Green"
+msgstr ""
+
+#: functions.php:168
+msgid "Grey"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1475
+msgid "Gutenberg Compatibility"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1525
+msgid "Have Question? Ask Us, Now!"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1285
+msgid "Header: Multiple Layouts"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1300
+msgid "Header: Notification Toolbar"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1290
+msgid "Header: Sticky Header"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1295
+msgid "Header: Transparent Header"
+msgstr ""
+
+#. Name of the theme
+msgid "Hello Shoppable"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Hello Shoppable is beautiful multipurpose ecommerce theme. Hello Shoppable "
+"is beautiful, fast, lightweight, responsive, extremely customizable, "
+"multipurpose ecommerce theme that you can use as a foundation to build "
+"versatile sites such as ecommerce, online business, shop and stores and "
+"preferably ideal for any type of sites. Hello Shoppable works perfectly with "
+"Gutenberg and the most popular page builder Elementor that can easily drag-"
+"and-drop your ideas from the interface. Hello Shoppable is built with SEO, "
+"speed, and usability in mind with the multiple Header &amp; Footer layouts, "
+"predesigned starter sites includes awesome Home &amp; Inner Pages that is "
+"incredibly customizable and powerful enough to take a stand among the crowd. "
+"Hello Shoppable is compatible with all major plugins like WooCommerce, Yoast,"
+" Contact form 7, Mailchimp for WordPress, bbPress, etc. Looking for a "
+"multipurpose ecommerce theme? Look no further! Browse the demos to see that "
+"it's the only theme you will ever need: https://demo.bosathemes."
+"com/shoppable/hello-shoppable"
+msgstr ""
+
+#. %s - WordPress version
+#: inc/back-compat.php:37 inc/back-compat.php:50 inc/back-compat.php:65
+#, php-format
+msgid ""
+"Hello Shoppable requires at least WordPress version 5.0. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:537
+msgid "Hooray! There are no recommended actions for you right now."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1495
+msgid "HTML5 & CSS3"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://bosathemes.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://bosathemes.com/hello-shoppable"
+msgstr ""
+
+#: template-parts/site-info.php:12
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: functions.php:200
+msgid "huge"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1079 inc/theme-info/theme-info.php:1081
+msgid "Import Demo"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1185
+msgid "Infinite Scroll"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:506 inc/theme-info/theme-info.php:728
+msgid "Install"
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: functions.php:195
+msgid "L"
+msgstr ""
+
+#: inc/template-functions.php:1126
+msgid "Large Size"
+msgstr ""
+
+#: functions.php:194
+msgid "larger"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:86
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-functions.php:480
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1450
+msgid "Lighting Fast"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:797
+msgid "Live Preview"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1103
+msgid "Love Our Product?"
+msgstr ""
+
+#: functions.php:189
+msgid "M"
+msgstr ""
+
+#: inc/template-functions.php:571
+msgid "Maximum no of Excerpt Lenght is 50"
+msgstr ""
+
+#: inc/template-functions.php:1128
+msgid "Medium Large Size"
+msgstr ""
+
+#: inc/template-functions.php:1127
+msgid "Medium Size"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1155
+msgid "Mega Menu Support"
+msgstr ""
+
+#: inc/template-functions.php:569
+msgid "Minimum no of Excerpt Lenght is 1"
+msgstr ""
+
+#: inc/template-functions.php:592
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1465
+msgid "Multilingual Compatibility"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1345
+msgid "Multiple Site Layouts"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1315
+msgid "Multiple Site Preloading Options"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1340
+msgid "Multiple Site Skins"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1350
+msgid "Multiple Typography"
+msgstr ""
+
+#: inc/woocommerce-functions.php:220 inc/woocommerce-functions.php:232
+msgid "My Account"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1534
+msgid "Needed any customization for the theme, you can request from here."
+msgstr ""
+
+#: index.php:176 archive.php:135 search.php:44
+msgid "Next"
+msgstr ""
+
+#: index.php:176 archive.php:135 search.php:44
+msgid "Next page"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1141 inc/theme-info/theme-info.php:1146
+#: inc/theme-info/theme-info.php:1151 inc/theme-info/theme-info.php:1156
+#: inc/theme-info/theme-info.php:1161 inc/theme-info/theme-info.php:1166
+#: inc/theme-info/theme-info.php:1171 inc/theme-info/theme-info.php:1176
+#: inc/theme-info/theme-info.php:1181 inc/theme-info/theme-info.php:1186
+#: inc/theme-info/theme-info.php:1191 inc/theme-info/theme-info.php:1196
+#: inc/theme-info/theme-info.php:1201 inc/theme-info/theme-info.php:1206
+#: inc/theme-info/theme-info.php:1211 inc/theme-info/theme-info.php:1216
+#: inc/theme-info/theme-info.php:1221 inc/theme-info/theme-info.php:1271
+#: inc/theme-info/theme-info.php:1276 inc/theme-info/theme-info.php:1311
+#: inc/theme-info/theme-info.php:1321 inc/theme-info/theme-info.php:1326
+#: inc/theme-info/theme-info.php:1381
+msgid "no"
+msgstr ""
+
+#: template-parts/content-related-posts.php:52
+msgid "No Related Post"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1190
+msgid "Off Canvas Filter"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1380
+msgid "Off-Canvas Sidebar"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1330
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1335
+msgid "One Page Site Ready"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: inc/template-functions.php:189
+msgid "Oops! That page can&#39;t be found."
+msgstr ""
+
+#: 404.php:18
+msgid "Oops! that page can&rsquo;t be found."
+msgstr ""
+
+#: functions.php:133
+msgid "Orange"
+msgstr ""
+
+#: index.php:178 archive.php:137 search.php:46
+msgid "Page"
+msgstr ""
+
+#: template-parts/content-single.php:20 template-parts/content-page.php:18
+msgid "Pages:"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1180
+msgid "Per Page User Filter"
+msgstr ""
+
+#: functions.php:143
+msgid "Pink"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:297
+msgid "Plugins added successfully."
+msgstr ""
+
+#: inc/getting-started/getting-started.php:58
+msgid "Plugins added successfully. You may dismiss this notice now."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1470
+msgid "Popular Plugins Compatibility"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1160
+msgid "PopUp Cart"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1150
+msgid "Popup Login/Register"
+msgstr ""
+
+#: inc/template-tags.php:162
+msgid "Posted on"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1071 inc/theme-info/theme-info.php:1545
+msgid "Pre-built Demos"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1325
+msgid "Pre-Built Starter Child Theme"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1270
+msgid "Premium Starters Sites"
+msgstr ""
+
+#: index.php:177 archive.php:136 search.php:45
+msgid "Prev"
+msgstr ""
+
+#: index.php:177 archive.php:136 search.php:45
+msgid "Previous page"
+msgstr ""
+
+#: functions.php:63
+msgid "Primary"
+msgstr ""
+
+#: template-parts/header/header-two.php:41
+#: template-parts/header/header-four.php:78
+#: template-parts/header/header-three.php:41
+#: template-parts/header/header-fixed.php:126
+#: template-parts/header/header-one.php:138
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1275
+msgid "Priority Support"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:569
+msgid "Pro (Premium)"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:20
+msgid "Processing..."
+msgstr ""
+
+#: functions.php:148
+msgid "Purple"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1140
+msgid "Quick View"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1105
+msgid "Rate Us"
+msgstr ""
+
+#. %s: rating
+#: inc/woocommerce-functions.php:915
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1052
+msgid "Recommended Plugins"
+msgstr ""
+
+#: functions.php:138
+msgid "Red"
+msgstr ""
+
+#: functions.php:188
+msgid "regular"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1455
+msgid "Responsive"
+msgstr ""
+
+#: inc/template-functions.php:470
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1485
+msgid "RTL/LTR Language Support"
+msgstr ""
+
+#: functions.php:183
+msgid "S"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1175
+msgid "Sale Countdown"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1205
+msgid "Search in SKU"
+msgstr ""
+
+#. %s - Searched WordPress query variable
+#: inc/template-functions.php:185
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: functions.php:64
+msgid "Secondary"
+msgstr ""
+
+#: inc/template-functions.php:1174
+msgid "Secondary Menu"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1460
+msgid "SEO Optimized"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:538
+msgid "Show All Recommended Actions"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1420
+msgid "Single Posts: Content - Sidebar Positions"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1410
+msgid "Single Posts: Feature Image Options"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1415
+msgid "Single Posts: Related Posts"
+msgstr ""
+
+#: header.php:64
+msgid "Skip to content"
+msgstr ""
+
+#: functions.php:182
+msgid "small"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1200
+msgid "Social Sharing Buttons"
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/getting-started/getting-started.php:117
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1430
+msgid "Starter Site Templates"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1370
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1053
+msgid "Support"
+msgstr ""
+
+#: inc/template-tags.php:123
+msgid "Tags"
+msgstr ""
+
+#: functions.php:123
+msgid "Tan"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1080
+msgid ""
+"The quick demo import setup will help you configure your new website like "
+"theme demo."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:567
+msgid "Theme Features"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1040
+msgid "Theme Info"
+msgstr ""
+
+#: inc/template-functions.php:1129
+msgid "Thumbnail Size"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1546
+msgid "To get started with ready-made starter site templates."
+msgstr ""
+
+#: template-parts/header/header-two.php:17
+#: template-parts/header/header-four.php:17
+#: template-parts/header/header-three.php:17
+#: template-parts/header/header-one.php:15
+msgid "TOP MENU"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:216
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1145
+msgid "Variation Swatches"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1547
+msgid "View All Demos"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1097
+msgid "View Documentation"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1526
+msgid ""
+"We are committed to resolving any issues that may arise to ensure a seamless "
+"experience while using shoppable."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1096
+msgid ""
+"We kindly request that you refer to the theme documentation for additional "
+"guidance on how to utilize its features."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1072
+msgid ""
+"We recommend utilizing our collection of pre-designed starter site templates "
+"as an efficient and convenient way to begin your project."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1104
+msgid ""
+"We would greatly appreciate your motivation through a 5-star rating on our "
+"profile."
+msgstr ""
+
+#. %s - Theme Name
+#: inc/theme-info/theme-info.php:1029
+#, php-format
+msgid "Welcome to %s - "
+msgstr ""
+
+#. %s - Theme name
+#: inc/getting-started/getting-started.php:61
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s!. To fully take advantage of the best "
+"our theme can offer, get started."
+msgstr ""
+
+#: inc/woocommerce-functions.php:139 inc/theme-info/theme-info.php:1130
+msgid "Wishlist"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1225
+msgid "WooCommerce Breadcrumbs"
+msgstr ""
+
+#: inc/template-functions.php:500
+msgid "WooCommerce Left Sidebar"
+msgstr ""
+
+#: inc/template-functions.php:490
+msgid "WooCommerce Right Sidebar"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1375
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: template-parts/site-info.php:12
+msgid "WordPress"
+msgstr ""
+
+#: functions.php:201
+msgid "XL"
+msgstr ""
+
+#: inc/template-functions.php:590
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: functions.php:128
+msgid "Yellow"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1126 inc/theme-info/theme-info.php:1127
+#: inc/theme-info/theme-info.php:1131 inc/theme-info/theme-info.php:1132
+#: inc/theme-info/theme-info.php:1136 inc/theme-info/theme-info.php:1137
+#: inc/theme-info/theme-info.php:1142 inc/theme-info/theme-info.php:1147
+#: inc/theme-info/theme-info.php:1152 inc/theme-info/theme-info.php:1157
+#: inc/theme-info/theme-info.php:1162 inc/theme-info/theme-info.php:1167
+#: inc/theme-info/theme-info.php:1172 inc/theme-info/theme-info.php:1177
+#: inc/theme-info/theme-info.php:1182 inc/theme-info/theme-info.php:1187
+#: inc/theme-info/theme-info.php:1192 inc/theme-info/theme-info.php:1197
+#: inc/theme-info/theme-info.php:1202 inc/theme-info/theme-info.php:1207
+#: inc/theme-info/theme-info.php:1212 inc/theme-info/theme-info.php:1217
+#: inc/theme-info/theme-info.php:1222 inc/theme-info/theme-info.php:1226
+#: inc/theme-info/theme-info.php:1227 inc/theme-info/theme-info.php:1231
+#: inc/theme-info/theme-info.php:1232 inc/theme-info/theme-info.php:1236
+#: inc/theme-info/theme-info.php:1237 inc/theme-info/theme-info.php:1241
+#: inc/theme-info/theme-info.php:1242 inc/theme-info/theme-info.php:1246
+#: inc/theme-info/theme-info.php:1247 inc/theme-info/theme-info.php:1251
+#: inc/theme-info/theme-info.php:1252 inc/theme-info/theme-info.php:1256
+#: inc/theme-info/theme-info.php:1257 inc/theme-info/theme-info.php:1266
+#: inc/theme-info/theme-info.php:1267 inc/theme-info/theme-info.php:1272
+#: inc/theme-info/theme-info.php:1277 inc/theme-info/theme-info.php:1286
+#: inc/theme-info/theme-info.php:1287 inc/theme-info/theme-info.php:1291
+#: inc/theme-info/theme-info.php:1292 inc/theme-info/theme-info.php:1296
+#: inc/theme-info/theme-info.php:1297 inc/theme-info/theme-info.php:1301
+#: inc/theme-info/theme-info.php:1302 inc/theme-info/theme-info.php:1306
+#: inc/theme-info/theme-info.php:1307 inc/theme-info/theme-info.php:1312
+#: inc/theme-info/theme-info.php:1316 inc/theme-info/theme-info.php:1317
+#: inc/theme-info/theme-info.php:1322 inc/theme-info/theme-info.php:1327
+#: inc/theme-info/theme-info.php:1331 inc/theme-info/theme-info.php:1332
+#: inc/theme-info/theme-info.php:1336 inc/theme-info/theme-info.php:1337
+#: inc/theme-info/theme-info.php:1341 inc/theme-info/theme-info.php:1342
+#: inc/theme-info/theme-info.php:1346 inc/theme-info/theme-info.php:1347
+#: inc/theme-info/theme-info.php:1351 inc/theme-info/theme-info.php:1352
+#: inc/theme-info/theme-info.php:1356 inc/theme-info/theme-info.php:1357
+#: inc/theme-info/theme-info.php:1361 inc/theme-info/theme-info.php:1362
+#: inc/theme-info/theme-info.php:1366 inc/theme-info/theme-info.php:1367
+#: inc/theme-info/theme-info.php:1371 inc/theme-info/theme-info.php:1372
+#: inc/theme-info/theme-info.php:1376 inc/theme-info/theme-info.php:1377
+#: inc/theme-info/theme-info.php:1382 inc/theme-info/theme-info.php:1391
+#: inc/theme-info/theme-info.php:1392 inc/theme-info/theme-info.php:1396
+#: inc/theme-info/theme-info.php:1397 inc/theme-info/theme-info.php:1401
+#: inc/theme-info/theme-info.php:1402 inc/theme-info/theme-info.php:1406
+#: inc/theme-info/theme-info.php:1407 inc/theme-info/theme-info.php:1411
+#: inc/theme-info/theme-info.php:1412 inc/theme-info/theme-info.php:1416
+#: inc/theme-info/theme-info.php:1417 inc/theme-info/theme-info.php:1421
+#: inc/theme-info/theme-info.php:1422 inc/theme-info/theme-info.php:1431
+#: inc/theme-info/theme-info.php:1432 inc/theme-info/theme-info.php:1436
+#: inc/theme-info/theme-info.php:1437 inc/theme-info/theme-info.php:1441
+#: inc/theme-info/theme-info.php:1442 inc/theme-info/theme-info.php:1451
+#: inc/theme-info/theme-info.php:1452 inc/theme-info/theme-info.php:1456
+#: inc/theme-info/theme-info.php:1457 inc/theme-info/theme-info.php:1461
+#: inc/theme-info/theme-info.php:1462 inc/theme-info/theme-info.php:1466
+#: inc/theme-info/theme-info.php:1467 inc/theme-info/theme-info.php:1471
+#: inc/theme-info/theme-info.php:1472 inc/theme-info/theme-info.php:1476
+#: inc/theme-info/theme-info.php:1477 inc/theme-info/theme-info.php:1481
+#: inc/theme-info/theme-info.php:1482 inc/theme-info/theme-info.php:1486
+#: inc/theme-info/theme-info.php:1487 inc/theme-info/theme-info.php:1491
+#: inc/theme-info/theme-info.php:1492 inc/theme-info/theme-info.php:1496
+#: inc/theme-info/theme-info.php:1497 inc/theme-info/theme-info.php:1501
+#: inc/theme-info/theme-info.php:1502
+msgid "yes"
+msgstr ""
+
+#: single.php:149
+msgid "You may also like these"
+msgstr ""
+
+#: inc/template-functions.php:567
+msgid "You must supply a valid number."
+msgstr ""
